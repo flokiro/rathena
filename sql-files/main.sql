@@ -1,4 +1,4 @@
---
+login--
 -- Table structure for table `acc_reg_num`
 --
 
